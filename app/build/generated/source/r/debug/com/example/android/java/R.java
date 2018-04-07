@@ -1613,7 +1613,28 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020048;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020049;
         public static final int abc_textfield_search_material=0x7f02004a;
-        public static final int notification_template_icon_bg=0x7f02004b;
+        public static final int monkey0001=0x7f02004b;
+        public static final int monkey0002=0x7f02004c;
+        public static final int monkey0003=0x7f02004d;
+        public static final int monkey0004=0x7f02004e;
+        public static final int monkey0005=0x7f02004f;
+        public static final int monkey0006=0x7f020050;
+        public static final int monkey0007=0x7f020051;
+        public static final int monkey0008=0x7f020052;
+        public static final int monkey0009=0x7f020053;
+        public static final int monkey0010=0x7f020054;
+        public static final int monkey0011=0x7f020055;
+        public static final int monkey0012=0x7f020056;
+        public static final int monkey0013=0x7f020057;
+        public static final int monkey0014=0x7f020058;
+        public static final int monkey0015=0x7f020059;
+        public static final int monkey0016=0x7f02005a;
+        public static final int monkey0017=0x7f02005b;
+        public static final int monkey0018=0x7f02005c;
+        public static final int monkey0019=0x7f02005d;
+        public static final int monkey0020=0x7f02005e;
+        public static final int monkey_animation=0x7f02005f;
+        public static final int notification_template_icon_bg=0x7f020060;
     }
     public static final class id {
         public static final int action0=0x7f0c0054;

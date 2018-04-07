@@ -1,7 +1,15 @@
 [
     {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0013.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0013.jpg"
+    },
+    {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0016.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0016.jpg"
     },
     {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -12,20 +20,60 @@
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0005.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0005.jpg"
+    },
+    {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0002.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0002.jpg"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0010.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0010.jpg"
     },
     {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0007.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0007.jpg"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0001.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0001.jpg"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0012.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0012.jpg"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0004.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0004.jpg"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0008.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0008.jpg"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey_animation.xml",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey_animation.xml"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0019.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0019.jpg"
     },
     {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -34,6 +82,14 @@
     {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0009.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0009.jpg"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0020.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0020.jpg"
     },
     {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
@@ -52,8 +108,16 @@
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0015.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0015.jpg"
+    },
+    {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0018.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0018.jpg"
     },
     {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -84,16 +148,36 @@
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0017.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0017.jpg"
+    },
+    {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0003.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0003.jpg"
     },
     {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0006.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0006.jpg"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0011.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0011.jpg"
+    },
+    {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\monkey0014.jpg",
+        "source": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\src\\main\\res\\drawable\\monkey0014.jpg"
     },
     {
         "merged": "F:\\Android\\Ex_Files_Android_SDK_Animation_Transition\\Ch03\\03_01\\AnimateDrawable\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
